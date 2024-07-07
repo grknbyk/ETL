@@ -1,0 +1,2 @@
+INSERT INTO petlebi (id, name, brand, price, url, stock, category, sku, barcode, description, images) VALUES
+(%(id)s, %(name)s, %(brand)s, %(price)s, %(url)s, %(stock)s, %(category)s, %(sku)s, %(barcode)s, %(description)s, %(images)s);
